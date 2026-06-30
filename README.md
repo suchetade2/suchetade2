@@ -6,7 +6,7 @@
 
 Data Analyst with **1.5 years of operational analytics experience at Tata Consultancy Services (TCS)** and a portfolio of **9 end-to-end analytics projects**. Passionate about transforming raw data into actionable business insights using SQL, Python, Power BI, Tableau, and Excel.
 
-I have worked on projects across **Supply Chain, Digital Payment Fraud Detection, Credit Risk, HR Analytics, Stock Market Analysis, Retail Analytics, and Business Intelligence**, analyzing datasets ranging from thousands to **6.3+ million records**. My projects focus on solving real-world business problems through data cleaning, SQL analysis, exploratory data analysis, dashboard development, statistical analysis, machine learning, and business storytelling.
+I have worked on projects across **Supply Chain, Digital Payment Fraud Detection, Credit Risk, HR Analytics, Stock Market Analysis, and Business Intelligence**, analyzing datasets ranging from thousands to **6.3+ million records**. My projects focus on solving real-world business problems through data cleaning, SQL analysis, exploratory data analysis, dashboard development, statistical analysis, machine learning, and business storytelling.
 
 ---
 
